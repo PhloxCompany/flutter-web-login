@@ -1,16 +1,32 @@
 # note_via
 
-A new Flutter project.
+## Flutter Beautiful Login Web Page UI Design 
 
-## Getting Started
+This repo is our web repo in github , follow us ❤.
 
-This project is a starting point for a Flutter application.
+### cover
+![Flutter Beautiful Login Page UI Design Cover](./assets/images/phloxcompany.jpg?raw=true "Flutter Beautiful Login Page UI Design Cover")
 
-A few resources to get you started if this is your first Flutter project:
+## Development Setup
+Clone the repository and run the following commands:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+flutter pub get
+flutter run
+```
+## ScreenShots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img alt="Flutter Beautiful Login Page UI Design Screen shot" src="./assets/images/ui_app.png" height="512em"/>
+
+
+
+<br><br>
+[Watch it on Youtube](https://www.youtube.com/channel/UC6sTNoJi_G_O5lNzc6JgLew)
+
+
+## Links
+
+* [Website](https://phloxcompany.com)
+* [Youtube channel](https://www.youtube.com/channel/UC6sTNoJi_G_O5lNzc6JgLew)
+* [Twitter](https://twitter.com/phloxcompany)
+* [Instagram](https://instagram.com/phloxcompany)
